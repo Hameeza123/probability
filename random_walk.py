@@ -32,7 +32,6 @@ def random_walk_probability(p, q, endup, endown, start):
 def og_random_walk(p, q, endup, endown, start):
     """
     This was my initial idea, but doesnt work in the code space. Cant seem to solve a system of linear equations effectively using recursion
-    This has the thoery more intuitively but not possible to run code (overly recursive)
     """
 
     # Base Cases
